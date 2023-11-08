@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f875f4e71f604e08ef39",
+    "revision": "636f0ee31c0cb91cd4a7",
     "url": "/vchshortpsychedelicbl/static/css/main.3b814b31.chunk.css"
   },
   {
-    "revision": "f875f4e71f604e08ef39",
-    "url": "/vchshortpsychedelicbl/static/js/main.0f635e89.chunk.js"
+    "revision": "636f0ee31c0cb91cd4a7",
+    "url": "/vchshortpsychedelicbl/static/js/main.1deaeb70.chunk.js"
   },
   {
     "revision": "1a4727834f18f7cfe2cb",
     "url": "/vchshortpsychedelicbl/static/js/runtime~main.82fe2714.js"
   },
   {
-    "revision": "b82296bf0d8e4b5773c4",
-    "url": "/vchshortpsychedelicbl/static/js/2.440933ad.chunk.js"
+    "revision": "de6dee77c692f98c611b",
+    "url": "/vchshortpsychedelicbl/static/js/2.357b6c3d.chunk.js"
   },
   {
     "revision": "6956dbda0015b26b8daac462ec922ef5",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/vchshortpsychedelicbl/static/media/rating_keydown_5.ae6e6c1f.png"
   },
   {
-    "revision": "9aa4aa3d386d64549f6ed09d314a2347",
+    "revision": "cc9c3553a6656c775334741be37b8651",
     "url": "/vchshortpsychedelicbl/index.html"
   }
 ];
